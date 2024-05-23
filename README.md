@@ -1,6 +1,6 @@
 ## Hi there 👋
 eu sou a Isabela de Campos
-estou estudando
+estou estudando pelo Alura
 <!--
 **isabelacamposbat/isabelacamposbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
